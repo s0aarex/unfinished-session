@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="./assets/logo.png" width="160" />
+</p>
+
+<p align="center">
+  <b>Stay in the session.</b><br/>
+  From idea to done.
+</p>
+
 # 🎛️ Unfinished Session
 
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
