@@ -7,7 +7,9 @@
   From idea to done.
 </p>
 
-# 🎛️ Unfinished Session
+<p align="center">
+  <h1>🎛️ Unfinished Session</h1>
+</p>
 
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
 ![version](https://img.shields.io/badge/version-0.1.0-blue)
