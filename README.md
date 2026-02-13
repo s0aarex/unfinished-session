@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <h3>Unfinished Session</h3>
+  <b>Unfinished Session</b>
 </p>
 
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
