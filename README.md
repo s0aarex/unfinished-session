@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <h1>        Unfinished Session</h1>
+  <h1>Unfinished Session</h1>
 </p>
 
 <p align="center">
