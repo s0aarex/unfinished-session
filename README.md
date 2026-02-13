@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <h1>Unfinished Session</h1>
+  <b>Stay in the session.</b><br/>
+  From idea to done.
 </p>
 
 <p align="center">
-  <b>Stay in the session.</b><br/>
-  From idea to done.
+  <h1>Unfinished Session</h1>
 </p>
 
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
