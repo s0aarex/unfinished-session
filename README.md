@@ -11,10 +11,12 @@
   <b>Unfinished Session</b>
 </p>
 
+<p align="center">
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
 ![version](https://img.shields.io/badge/version-0.1.0-blue)
 ![platform](https://img.shields.io/badge/platform-mobile%20%7C%20desktop-lightgrey)
 ![tech](https://img.shields.io/badge/stack-React%20Native%20%2B%20Tauri-purple)
+</p>p
 
 > A productivity app for music producers focused on ideas, flow state and unfinished projects.
 
